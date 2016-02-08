@@ -1,0 +1,1 @@
+db.movies.find({"Title":"Copycat (1995)"}).pretty()
