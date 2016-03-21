@@ -1,0 +1,21 @@
+Explanation of abbreviation of attributes
+
+apret = average percentage of freshmen retention
+
+apgra = average percentage of graduation 
+
+rejr = rejection rate
+
+tstsc = average test scores of the incoming students
+
+top10 = class standing of the incoming freshmen
+
+pacc = percentage of admitted students 
+
+spend = total educational and general expenses per student
+
+strat = student teacher ratio
+
+salary = average faculty salary
+
+The type I error rate or significance level is the probability of rejecting the null hypothesis given that it is true. Often, the significance level is set to 0.05 (5%), implying that it is acceptable to have a 5% probability of incorrectly rejecting the null hypothesis.
